@@ -266,6 +266,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | 🌎 [Datawrapper](www.datawrapper.de/) | An open source data visualization platform helping everyone to create simple, correct and embeddable charts. Also at <b><code>&nbsp;&nbsp;1253⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;276🍴</code></b> [github.com](https://github.com/datawrapper/datawrapper)) |
 | 🌎 [Tensor Flow](www.tensorflow.org/) | TensorFlow is an Open Source Software Library for Machine Intelligence |
 | 🌎 [Natural Language Toolkit](www.nltk.org/) | An introductory yet powerful toolkit for natural language processing and classification |
+| 🌎 [Annotation Lab](https://www.johnsnowlabs.com/annotation-lab/) | Free End-to-End No-Code platform for text annotation and DL model training/tuning. Out-of-the-box support for Named Entity Recognition, Classification, Relation extraction and Assertion Status Spark NLP models. Unlimited support for users, teams, projects, documents. |
 | 🌎 [nlp-toolkit for node.js](www.npmjs.com/package/nlp-toolkit) | .  |
 | 🌎 [Julia](julialang.org) | high-level, high-performance dynamic programming language for technical computing |
 | <b><code>&nbsp;&nbsp;2513⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;394🍴</code></b> [IJulia](https://github.com/JuliaLang/IJulia.jl)) | a Julia-language backend combined with the Jupyter interactive environment |
