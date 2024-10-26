@@ -575,6 +575,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Apache Airflow](https://github.com/apache/airflow) | Platform to programmatically author, schedule, and monitor workflows |
 | [Prefect](https://github.com/PrefectHQ/prefect) | Workflow management system for modern data stacks |
 | [Kedro](https://github.com/kedro-org/kedro) | Open-source Python framework for creating reproducible, maintainable data science code |
+| [Hamilton](https://github.com/dagworks-inc/hamilton) | Lightweight library to author and manage reliable data transformations |
 | [SHAP](https://github.com/slundberg/shap) | Game theoretic approach to explain the output of any machine learning model |
 | [LIME](https://github.com/marcotcr/lime) | Explaining the predictions of any machine learning classifier |
 | [flyte](https://github.com/flyteorg/flyte) | Workflow automation platform for machine learning |
