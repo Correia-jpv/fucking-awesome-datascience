@@ -152,6 +152,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Hands-on Train and Deploy ML](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - A hands-on course to train and deploy a serverless API that predicts crypto prices.
 - [LLMOps: Building Real-World Applications With Large Language Models](https://www.comet.com/site/llm-course/) - Learn to build modern software with LLMs using the newest tools and techniques in the field.
 - [Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/) - Learn to prompt cutting-edge computer vision models with natural language, coordinate points, bounding boxes, segmentation masks, and even other images in this free course from DeepLearning.AI.
+- [Data Science Course By IBM](https://skillsbuild.org/students/course-catalog/data-science) - Free resources and learn what data science is and how it’s used in different industries.
 
   
 ### MOOC's
