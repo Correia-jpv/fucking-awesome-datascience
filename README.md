@@ -1105,6 +1105,8 @@ Some data mining competition platforms
 
 - [Comic compilation](https://medium.com/@nikhil_garg/a-compilation-of-comics-explaining-statistics-data-science-and-machine-learning-eeefbae91277)
 - [Cartoons](https://www.kdnuggets.com/websites/cartoons.html)
+- [Data Science Cartoons](https://www.cartoonstock.com/directory/d/data_science.asp)
+- [Data Science: The XKCD Edition](https://davidlindelof.com/data-science-the-xkcd-edition/)
 
 ## Other Awesome Lists
 
