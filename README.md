@@ -839,6 +839,7 @@ This section includes some additional reading material, channels to watch, and t
 - [The Robot Brains Podcast](https://www.therobotbrains.ai/)
 - [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
 - [How AI Built This](https://how-ai-built-this.captivate.fm/)
+- [The Analytics Engineering Podcast](https://roundup.getdbt.com/s/the-analytics-engineering-podcast)
 
 ### YouTube Videos & Channels
 **[`^        back to top        ^`](#awesome-data-science)**
