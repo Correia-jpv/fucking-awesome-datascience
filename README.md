@@ -121,9 +121,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Data science your way](https://github.com/jadianes/data-science-your-way)
 - [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
 - [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
-- [How To Label Data](https://www.lighttag.io/how-to-label-data/)
 - [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
-- [Over 1000 Data Science Online Courses at Classpert Online Search Engine](https://classpert.com/search/data-science)
 - [Tutorials of source code from the book Genetic Algorithms with Python by Clinton Sheppard](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
 - [Tutorials to get started on signal processing for machine learning](https://github.com/jinglescode/python-signal-processing)
 - [Realtime deployment](https://www.microprediction.com/python-1) Tutorial on Python time-series model deployment.
@@ -144,12 +142,10 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Genetic Algorithms OCW Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/)
 - [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
 - [Convex Optimization](https://www.edx.org/course/convex-optimization) - Convex Optimization (basics of convex analysis; least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems; optimality conditions, duality theory...)
-- [Skillcombo - Data Science](https://skillcombo.com/courses/development/data-science/free/) - 1000+ free online Data Science courses
 - [Learning from Data](https://home.work.caltech.edu/telecourse.html) - Introduction to machine learning covering basic theory, algorithms and applications
 - [Kaggle](https://www.kaggle.com/learn) - Learn about Data Science, Machine Learning, Python etc
 - [ML Observability Fundamentals](https://arize.com/ml-observability-fundamentals/) - Learn how to monitor and root-cause production ML issues.
 - [Weights & Biases Effective MLOps: Model Development](https://www.wandb.courses/courses/effective-mlops-model-development) - Free Course and Certification for building an end-to-end machine using W&B
-- [Python for Machine Learning](https://globalaihub.com/courses/introduction-to-python-the-road-to-machine-learning/) - Start your journey to machine learning with Python, one of the most powerful programming languages.
 - [Python for Data Science by Scaler](https://www.scaler.com/topics/course/python-for-data-science/) - This course is designed to empower beginners with the essential skills to excel in today's data-driven world. The comprehensive curriculum will give you a solid foundation in statistics, programming, data visualization, and machine learning.
 - [MLSys-NYU-2022](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
 - [Hands-on Train and Deploy ML](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - A hands-on course to train and deploy a serverless API that predicts crypto prices.
@@ -226,7 +222,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Msc in Data Science @ The University of Edinburgh](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=902)
 - [Master of Management Analytics @ Queen's University](https://smith.queensu.ca/grad_studies/mma/index.php)
 - [Master of Data Science @ Illinois Institute of Technology](https://www.iit.edu/academics/programs/data-science-mas)
-- [Master of Applied Data Science @ The University of Michigan](https://www.si.umich.edu/programs/master-applied-data-science-online)
+- [Master of Applied Data Science @ The University of Michigan](https://www.si.umich.edu/programs/master-applied-data-science)
 - [Master Data Science and Artificial Intelligence @ Eindhoven University of Technology](https://www.tue.nl/en/education/graduate-school/master-data-science-and-artificial-intelligence/)
 - [Master's Degree in Data Science and Computer Engineering @ University of Granada](https://masteres.ugr.es/datcom/)
 
@@ -427,7 +423,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [altair](https://altair-viz.github.io/)
-- [addepar](https://opensource.addepar.com/ember-charts/#/overview)
 - [amcharts](https://www.amcharts.com/)
 - [anychart](https://www.anychart.com/)
 - [bokeh](https://bokeh.org/)
@@ -438,7 +433,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [d3plus](https://d3plus.org/)
 - [Data-Driven Documents(D3js)](https://d3js.org/)
 - [dygraphs](https://dygraphs.com/)
-- [ECharts](https://echarts.baidu.com/index-en.html)
 - [exhibit](https://www.simile-widgets.org/exhibit/)
 - [gephi](https://gephi.org/)
 - [ggplot2](https://ggplot2.tidyverse.org/)
@@ -446,7 +440,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Google Chart Gallery](https://developers.google.com/chart/interactive/docs/gallery)
 - [highcarts](https://www.highcharts.com/)
 - [import.io](https://www.import.io/)
-- [jqplot](https://www.jqplot.com/)
 - [Matplotlib](https://matplotlib.org/)
 - [nvd3](https://nvd3.org/)
 - [Netron](https://github.com/lutzroeder/netron)
@@ -461,7 +454,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [vida](https://vida.io/)
 - [vizzu](https://github.com/vizzuhq/vizzu-lib)
 - [Wrangler](http://vis.stanford.edu/wrangler/)
-- [r2d3](https://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- [r2d3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [NetworkX](https://networkx.org/)
 - [Redash](https://redash.io/)
 - [C3](https://c3js.org/)
@@ -501,7 +494,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Wolfram Data Science Platform](https://www.wolfram.com/data-science-platform/) | Take numerical, textual, image, GIS or other data and give it the Wolfram treatment, carrying out a full spectrum of data science analysis and visualization and automatically generate rich interactive reports—all powered by the revolutionary knowledge-based Wolfram Language. |
 | [Datadog](https://www.datadoghq.com/) | Solutions, code, and devops for high-scale data science. |
 | [Variance](https://variancecharts.com/) | Build powerful data visualizations for the web without writing JavaScript |
-| [Kite Development Kit](https://kitesdk.org/docs/current/index.html) | The Kite Software Development Kit (Apache License, Version 2.0), or Kite for short, is a set of libraries, tools, examples, and documentation focused on making it easier to build systems on top of the Hadoop ecosystem. |
+| [Kite Development Kit](http://kitesdk.org/docs/current/index.html) | The Kite Software Development Kit (Apache License, Version 2.0), or Kite for short, is a set of libraries, tools, examples, and documentation focused on making it easier to build systems on top of the Hadoop ecosystem. |
 | [Domino Data Labs](https://www.dominodatalab.com) | Run, scale, share, and deploy your models — without any infrastructure or setup. |
 | [Apache Flink](https://flink.apache.org/) | A platform for efficient, distributed, general-purpose data processing. |
 | [Apache Hama](https://hama.apache.org/) | Apache Hama is an Apache Top-Level open source project, allowing you to do advanced analytics beyond MapReduce. |
