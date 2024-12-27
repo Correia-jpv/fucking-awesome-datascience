@@ -189,7 +189,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Coursera Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)
 - [Coursera GAN Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans)
 - [Codecademy's Data Science](https://www.codecademy.com/learn/paths/data-science)
-- [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) - Linear Algebra course by Gilbert Strang
+- [Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) - Linear Algebra course by Gilbert Strang
 - [A 2020 Vision of Linear Algebra (G. Strang)](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/)
 - [Python for Data Science Foundation Course](https://intellipaat.com/academy/course/python-for-data-science-free-training/)
 - [Data Science: Statistics & Machine Learning](https://www.coursera.org/specializations/data-science-statistics-machine-learning)
