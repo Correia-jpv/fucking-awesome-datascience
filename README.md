@@ -45,7 +45,7 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
   - [Miscellaneous Tools](#miscellaneous-tools)
 - [Literature and Media](#literature-and-media)
   - [Books](#books)
-    - [Book Deals (Affiliated)](#book-deals-affiliated-)
+    - [Book Deals (Affiliated)](#book-deals-affiliated)
   - [Journals, Publications, and Magazines](#journals-publications-and-magazines)
   - [Newsletters](#newsletters)
   - [Bloggers](#bloggers)
@@ -498,13 +498,13 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Domino Data Labs](https://www.dominodatalab.com) | Run, scale, share, and deploy your models — without any infrastructure or setup. |
 | [Apache Flink](https://flink.apache.org/) | A platform for efficient, distributed, general-purpose data processing. |
 | [Apache Hama](https://hama.apache.org/) | Apache Hama is an Apache Top-Level open source project, allowing you to do advanced analytics beyond MapReduce. |
-| [Weka](https://www.cs.waikato.ac.nz/ml/weka/) | Weka is a collection of machine learning algorithms for data mining tasks. |
+| [Weka](https://ml.cms.waikato.ac.nz/weka/index.html) | Weka is a collection of machine learning algorithms for data mining tasks. |
 | [Octave](https://www.gnu.org/software/octave/) | GNU Octave is a high-level interpreted language, primarily intended for numerical computations.(Free Matlab) |
 | [Apache Spark](https://spark.apache.org/) | Lightning-fast cluster computing |
 | [Hydrosphere Mist](https://github.com/Hydrospheredata/mist) | a service for exposing Apache Spark analytics jobs and machine learning models as realtime, batch or reactive web services. |
 | [Data Mechanics](https://www.datamechanics.co) | A data science and engineering platform making Apache Spark more developer-friendly and cost-effective. |
 | [Caffe](https://caffe.berkeleyvision.org/) | Deep Learning Framework |
-| [Torch](https://torch.ch/) | A SCIENTIFIC COMPUTING FRAMEWORK FOR LUAJIT |
+| [Torch](http://torch.ch/) | A SCIENTIFIC COMPUTING FRAMEWORK FOR LUAJIT |
 | [Nervana's python based Deep Learning Framework](https://github.com/NervanaSystems/neon) | Intel® Nervana™ reference deep learning framework committed to best performance on all hardware. |
 | [Skale](https://github.com/skale-me/skale) | High performance distributed data processing in NodeJS |
 | [Aerosolve](https://airbnb.io/aerosolve/) | A machine learning package built for humans. |
@@ -524,7 +524,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Lambdo](https://github.com/asavinov/lambdo) | is a workflow engine that significantly simplifies data analysis by combining in one analysis pipeline (i) feature engineering and machine learning (ii) model training and prediction (iii) table population and column evaluation. |
 | [Feast](https://github.com/feast-dev/feast) | A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving. |
 | [Polyaxon](https://github.com/polyaxon/polyaxon) | A platform for reproducible and scalable machine learning and deep learning. |
-| [LightTag](https://www.lighttag.io/) | Text Annotation Tool for teams |
 | [UBIAI](https://ubiai.tools) | Easy-to-use text annotation tool for teams with most comprehensive auto-annotation features. Supports NER, relations and document classification as well as OCR annotation for invoice labeling |
 | [Trains](https://github.com/allegroai/clearml) | Auto-Magical Experiment Manager, Version Control & DevOps for AI |
 | [Hopsworks](https://github.com/logicalclocks/hopsworks) | Open-source data-intensive machine learning platform with a feature store. Ingest and manage features for both online (MySQL Cluster)  and offline (Apache Hive) access, train and serve models at scale. |
@@ -597,7 +596,6 @@ This section includes some additional reading material, channels to watch, and t
 - [Artificial Intelligence with Python - Tutorialspoint](https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_tutorial.pdf)
 - [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
 - [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
-- [A Comprehensive Guide to Machine Learning](https://www.eecs189.org/static/resources/comprehensive-guide.pdf)
 - [How to Lead in Data Science](https://www.manning.com/books/how-to-lead-in-data-science) - Early Access
 - [Fighting Churn With Data](https://www.manning.com/books/fighting-churn-with-data)
 - [Data Science at Scale with Python and Dask](https://www.manning.com/books/data-science-with-python-and-dask)
@@ -617,14 +615,13 @@ This section includes some additional reading material, channels to watch, and t
 - [Applied Data Science: Lessons Learned for the Data-Driven Business](https://www.springer.com/gp/book/9783030118204)
 - [The Data Science Handbook](https://www.amazon.com/Data-Science-Handbook-Field-Cady/dp/1119092949)
 - [Essential Natural Language Processing](https://www.manning.com/books/getting-started-with-natural-language-processing) - Early access
-- [Mining Massive Datasets](https://www.mmds.org/) - free e-book comprehended by an online course
+- [Mining Massive Datasets](http://www.mmds.org/) - free e-book comprehended by an online course
 - [Pandas in Action](https://www.manning.com/books/pandas-in-action) - Early access
 - [Genetic Algorithms and Genetic Programming](https://www.taylorfrancis.com/books/9780429141973)
 - [Advances in Evolutionary Algorithms](https://www.intechopen.com/books/advances_in_evolutionary_algorithms) - Free Download
 - [Genetic Programming: New Approaches and Successful Applications](https://www.intechopen.com/books/genetic-programming-new-approaches-and-successful-applications) - Free Download
 - [Evolutionary Algorithms](https://www.intechopen.com/books/evolutionary-algorithms) - Free Download
-- [Advances in Genetic Programming, Vol. 3](https://www.cs.bham.ac.uk/~wbl/aigp3/) - Free Download
-- [Global Optimization Algorithms: Theory and Application](https://www.it-weise.de/projects/book.pdf) - Free Download
+- [Advances in Genetic Programming, Vol. 3](http://www0.cs.ucl.ac.uk/staff/W.Langdon/aigp3/) - Free Download
 - [Genetic Algorithms and Evolutionary Computation](https://www.talkorigins.org/faqs/genalg/genalg.html) - Free Download
 - [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) - Convex Optimization book by Stephen Boyd - Free Download
 - [Data Analysis with Python and PySpark](https://www.manning.com/books/data-analysis-with-python-and-pyspark) - Early Access
@@ -638,14 +635,13 @@ This section includes some additional reading material, channels to watch, and t
 - [Regression, a Friendly guide](https://www.manning.com/books/regression-a-friendly-guide) - Early Access
 - [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://www.oreilly.com/library/view/streaming-systems/9781491983867/)
 - [Data Science at the Command Line: Facing the Future with Time-Tested Tools](https://www.oreilly.com/library/view/data-science-at/9781491947845/)
-- [Machine Learning - CIn UFPE](https://www.cin.ufpe.br/~cavmj/Machine%20-%20Learning%20-%20Tom%20Mitchell.pdf)
 - [Machine Learning with Python - Tutorialspoint](https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_tutorial.pdf)
 - [Deep Learning](https://www.deeplearningbook.org/)
 - [Designing Cloud Data Platforms](https://www.manning.com/books/designing-cloud-data-platforms) - Early Access
 - [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/)
 - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://hastie.su.domains/ElemStatLearn/)
 - [Deep Learning with PyTorch](https://www.simonandschuster.com/books/Deep-Learning-with-PyTorch/Eli-Stevens/9781617295263)
-- [Neural Networks and Deep Learning](https://neuralnetworksanddeeplearning.com)
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 - [Deep Learning Cookbook](https://www.oreilly.com/library/view/deep-learning-cookbook/9781491995839/)
 - [Introduction to Machine Learning with Python](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/)
 - [Artificial Intelligence: Foundations of Computational Agents, 2nd Edition](https://artint.info/index.html) - Free HTML version
@@ -666,7 +662,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Machine Learning For Absolute Beginners](https://www.amazon.in/Machine-Learning-Absolute-Beginners-Introduction-ebook/dp/B07335JNW1)
 - [Unifying Business, Data, and Code: Designing Data Products with JSON Schema](https://learning.oreilly.com/library/view/unifying-business-data/9781098144999/)
 
-#### Book Deals (Affiliated) 🛍
+#### Book Deals (Affiliated)
 
 - [eBook sale - Save up to 45% on eBooks!](https://www.manning.com/?utm_source=mikrobusiness&utm_medium=affiliate&utm_campaign=ebook_sale_8_8_22)
 
@@ -691,12 +687,10 @@ This section includes some additional reading material, channels to watch, and t
 - [Data Science Trello Board](https://trello.com/b/rbpEfMld/data-science)
 - [Medium Data Science Topic](https://medium.com/tag/data-science) - Data Science related publications on medium
 - [Towards Data Science Genetic Algorithm Topic](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3#:~:text=A%20genetic%20algorithm%20is%20a,offspring%20of%20the%20next%20generation.) -Genetic Algorithm related Publications towards Data Science
-- [all AI news](https://allainews.com/) - The AI/ML/Big Data news aggregator platform
 
 ### Newsletters
 **[`^        back to top        ^`](#awesome-data-science)**
 
-- [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
 - [DataTalks.Club](https://datatalks.club). A weekly newsletter about data-related things. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa).
 - [The Analytics Engineering Roundup](https://roundup.getdbt.com/about). A newsletter about data science. [Archive](https://roundup.getdbt.com/archive).
 
@@ -705,22 +699,18 @@ This section includes some additional reading material, channels to watch, and t
 
 - [Wes McKinney](https://wesmckinney.com/archives.html) - Wes McKinney Archives.
 - [Matthew Russell](https://miningthesocialweb.com/) - Mining The Social Web.
-- [Greg Reda](https://www.gregreda.com/) - Greg Reda Personal Blog
+- [Greg Reda](http://www.gregreda.com/) - Greg Reda Personal Blog
 - [Kevin Davenport](https://kldavenport.com/) - Kevin Davenport Personal Blog
 - [Julia Evans](https://jvns.ca/) - Recurse Center alumna
 - [Hakan Kardas](https://www.cse.unr.edu/~hkardes/) - Personal Web Page
 - [Sean J. Taylor](https://seanjtaylor.com/) - Personal Web Page
-- [Drew Conway](https://drewconway.com/) - Personal Web Page
+- [Drew Conway](http://drewconway.com/) - Personal Web Page
 - [Hilary Mason](https://hilarymason.com/) - Personal Web Page
-- [Noah Iliinsky](https://complexdiagrams.com/) - Personal Blog
+- [Noah Iliinsky](http://complexdiagrams.com/) - Personal Blog
 - [Matt Harrison](https://hairysun.com/) - Personal Blog
 - [Vamshi Ambati](https://allthingsds.wordpress.com/) - AllThings Data Sciene
 - [Prash Chan](https://www.mdmgeek.com/) - Tech Blog on Master Data Management And Every Buzz Surrounding It
-- [Clare Corthell](https://datasciencemasters.org/) - The Open Source Data Science Masters
-- [Paul Miller](https://cloudofdata.com/) Based in the UK and working globally, Cloud of Data's consultancy services help clients understand the implications of taking data and more to the Cloud.
-- [Data Science London](https://datasciencelondon.org/) Data Science London is a non-profit organization dedicated to the free, open, dissemination of data science.
-  We are the largest data science community in Europe.
-  We are more than 3,190 data scientists and data geeks in our community.
+- [Clare Corthell](http://datasciencemasters.org/) - The Open Source Data Science Masters
 - [Datawrangling](http://www.datawrangling.org) by Peter Skomoroch. MACHINE LEARNING, DATA MINING, AND MORE
 - [Quora Data Science](https://www.quora.com/topic/Data-Science) - Data Science Questions and Answers from experts
 - [Siah](https://openresearch.wordpress.com/) a PhD student at Berkeley
@@ -735,7 +725,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Spenczar](https://spenczar.com/) a data scientist at _Twitch_. I handle the whole data pipeline, from tracking to model-building to reporting.
 - [KD Nuggets](https://www.kdnuggets.com/) Data Mining, Analytics, Big Data, Data, Science not a blog a portal
 - [Meta Brown](https://www.metabrown.com/blog/) - Personal Blog
-- [Data Scientist](https://datascientists.net/) is building the data scientist culture.
+- [Data Scientist](https://datascientists.com/) is building the data scientist culture.
 - [WhatSTheBigData](https://whatsthebigdata.com/) is some of, all of, or much more than the above and this blog explores its impact on information technology, the business world, government agencies, and our lives.
 - [Tevfik Kosar](https://magnus-notitia.blogspot.com/) - Magnus Notitia
 - [New Data Scientist](https://newdatascientist.blogspot.com/) How a Social Scientist Jumps into the World of Big Data
@@ -744,16 +734,13 @@ This section includes some additional reading material, channels to watch, and t
 - [Kaggle Past Solutions](https://www.chioka.in/kaggle-competition-solutions/)
 - [DataScientistJourney](https://datascientistjourney.wordpress.com/category/data-science/)
 - [NYC Taxi Visualization Blog](https://chriswhong.github.io/nyctaxi/)
-- [Learning Lover](https://learninglover.com/blog/)
-- [Dataists](https://www.dataists.com/)
 - [Data-Mania](https://www.data-mania.com/)
 - [Data-Magnum](https://data-magnum.com/)
-- [P-value](https://www.p-value.info/) - Musings on data science, machine learning, and stats.
 - [datascopeanalytics](https://datascopeanalytics.com/blog/)
 - [Digital transformation](https://tarrysingh.com/)
 - [datascientistjourney](https://datascientistjourney.wordpress.com/category/data-science/)
 - [Data Mania Blog](https://www.data-mania.com/blog/) - [The File Drawer](https://chris-said.io/) - Chris Said's science blog
-- [Emilio Ferrara's web page](https://www.emilio.ferrara.name/)
+- [Emilio Ferrara's web page](http://www.emilio.ferrara.name/)
 - [DataNews](https://datanews.tumblr.com/)
 - [Reddit TextMining](https://www.reddit.com/r/textdatamining/)
 - [Periscopic](https://periscopic.com/#!/news)
@@ -762,7 +749,6 @@ This section includes some additional reading material, channels to watch, and t
 - [Data Science Lab](https://datasciencelab.wordpress.com/)
 - [Meaning of](https://www.kennybastani.com/)
 - [Adventures in Data Land](https://blog.smola.org)
-- [DATA MINERS BLOG](https://blog.data-miners.com/)
 - [Dataclysm](https://theblog.okcupid.com/)
 - [FlowingData](https://flowingdata.com/) - Visualization and Statistics
 - [Calculated Risk](https://www.calculatedriskblog.com/)
@@ -783,7 +769,6 @@ This section includes some additional reading material, channels to watch, and t
 - [floydhub](https://blog.floydhub.com/introduction-to-genetic-algorithms/) - Blog for Evolutionary Algorithms
 - [Jingles](https://jinglescode.github.io/) - Review and extract key concepts from academic papers
 - [nbshare](https://www.nbshare.io/notebooks/data-science/) - Data Science notebooks
-- [Deep and Shallow](https://deep-and-shallow.com/) - All things Deep and Shallow in Data Science
 - [Loic Tetrel](https://ltetrel.github.io/) - Data science blog
 - [Chip Huyen's Blog](https://huyenchip.com/blog/) - ML Engineering, MLOps, and the use of ML in startups
 - [Maria Khalusova](https://www.mariakhalusova.com/) - Data science blog
@@ -812,9 +797,7 @@ This section includes some additional reading material, channels to watch, and t
 - [AI at Home](https://podcasts.apple.com/us/podcast/data-science-at-home/id1069871378)
 - [AI Today](https://www.cognilytica.com/aitoday/)
 - [Adversarial Learning](https://adversariallearning.com/)
-- [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
 - [Chai time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x)
-- [Data Crunch](https://datacrunchcorp.com/data-crunch-podcast/)
 - [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
 - [Data Science at Home](https://datascienceathome.com/)
 - [Data Science Mixer](https://community.alteryx.com/t5/Data-Science-Mixer/bg-p/mixer)
@@ -829,13 +812,11 @@ This section includes some additional reading material, channels to watch, and t
 - [Linear Digressions](https://lineardigressions.com/)
 - [Not So Standard Deviations](https://nssdeviations.com/)
 - [O'Reilly Data Show Podcast](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/)
-- [Partially Derivative](https://partiallyderivative.com/)
+- [Partially Derivative](http://partiallyderivative.com/)
 - [Superdatascience](https://www.superdatascience.com/podcast/)
 - [The Data Engineering Show](https://www.dataengineeringshow.com/)
 - [The Radical AI Podcast](https://www.radicalai.org/)
-- [The Robot Brains Podcast](https://www.therobotbrains.ai/)
 - [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
-- [How AI Built This](https://how-ai-built-this.captivate.fm/)
 - [The Analytics Engineering Podcast](https://roundup.getdbt.com/s/the-analytics-engineering-podcast)
 
 ### YouTube Videos & Channels
@@ -996,7 +977,6 @@ Below are some Social Media links. Connect with other data scientists!
 [top](#awesome-data-science)
 
 - [DataTalks.Club](https://datatalks.club)
-- [Women Who Code - Data Science](https://www.womenwhocode.com/datascience)
 
 ### GitHub Groups
 - [Berkeley Institute for Data Science](https://github.com/BIDS)
@@ -1031,10 +1011,10 @@ Some data mining competition platforms
 | [<img src="https://i.imgur.com/l9ZGtal.jpg" width="150" />](https://i.imgur.com/xLY3XZn.jpg)                                                                                                                                                | By [Data Science Central](https://www.datasciencecentral.com/)                                                                                                                                                                                                |
 | [<img src="https://i.imgur.com/TWkB4X6.png" width="150" />](https://i.imgur.com/0TydZ4M.png)                                                                                                                                                | Data Science Wars: R vs Python                                                                                                                                                                                                                               |
 | [<img src="https://i.imgur.com/gtTlW5I.png" width="150" />](https://i.imgur.com/HnRwlce.png)                                                                                                                                                | How to select statistical or machine learning techniques                                                                                                                                                                                                     |
-| [<img src="https://scikit-learn.org/stable/_static/ml_map.png" width="150" />](https://scikit-learn.org/stable/_static/ml_map.png)                                                                                                           | Choosing the Right Estimator                                                                                                                                                                                                                                 |
+| [<img src="https://scikit-learn.org/1.5/_downloads/b82bf6cd7438a351f19fac60fbc0d927/ml_map.svg" width="150" />](https://scikit-learn.org/1.5/_downloads/b82bf6cd7438a351f19fac60fbc0d927/ml_map.svg)                                                                                                           | [Choosing the Right Estimator](https://scikit-learn.org/1.5/machine_learning_map.html#choosing-the-right-estimator)                                                                                                                                                                                                                                 |
 | [<img src="https://i.imgur.com/3JSyUq1.png" width="150" />](https://i.imgur.com/uEqMwZa.png)                                                                                                                                                | The Data Science Industry: Who Does What                                                                                                                                                                                                                     |
 | [<img src="https://i.imgur.com/DQqFwwy.png" width="150" />](https://i.imgur.com/RsHqY84.png)                                                                                                                                                | Data Science ~~Venn~~ Euler Diagram                                                                                                                                                                                                                          |
-| [<img src="https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png" width="150" height="150" />](https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png) | Different Data Science Skills and Roles from [this article](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/) by Springboard                                                                                             |
+| [<img src="https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png" width="150" height="150" />](https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png) | Different Data Science Skills and Roles from [Springboard](https://www.springboard.com)                                                                                       |
 | [<img src="https://data-literacy.geckoboard.com/assets/img/data-fallacies-to-avoid-preview.jpg" width="150" alt="Data Fallacies To Avoid" />](https://data-literacy.geckoboard.com/poster/)                                                 | A simple and friendly way of teaching your non-data scientist/non-statistician colleagues [how to avoid mistakes with data](https://data-literacy.geckoboard.com/poster/). From Geckoboard's [Data Literacy Lessons](https://data-literacy.geckoboard.com/). |
 
 ### Datasets
@@ -1076,14 +1056,13 @@ Some data mining competition platforms
 - [Open Data Sources](https://github.com/datasciencemasters/data)
 - [UNICEF Data](https://data.unicef.org/)
 - [undata](https://data.un.org/)
-- [NASA SocioEconomic Data and Applications Center - SEDAC](https://sedac.ciesin.columbia.edu/)
+- [NASA SocioEconomic Data and Applications Center - SEDAC](https://earthdata.nasa.gov/centers/sedac-daac)
 - [The GDELT Project](https://www.gdeltproject.org/)
 - [Sweden, Statistics](https://www.scb.se/en/)
 - [StackExchange Data Explorer](https://data.stackexchange.com) - an open source tool for running arbitrary queries against public data from the Stack Exchange network.
-- [SocialGrep](https://socialgrep.com/datasets) - a collection of open Reddit datasets.
 - [San Fransisco Government Open Data](https://datasf.org/opendata/)
 - [IBM Asset Dataset](https://developer.ibm.com/exchanges/data/)
-- [Open data Index](https://index.okfn.org/)
+- [Open data Index](http://index.okfn.org/)
 - [Public Git Archive](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
 - [GHTorrent](https://ghtorrent.org/)
 - [Microsoft Research Open Data](https://msropendata.com/)
