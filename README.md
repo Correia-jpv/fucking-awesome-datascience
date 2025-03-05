@@ -1128,6 +1128,7 @@ Some data mining competition platforms
 - [AI in Data Science: Uses, Roles, and Tools](https://www.scaler.com/blog/ai-in-data-science/)
 - [Top 13 Data Science Programming Languages](https://www.appliedaicourse.com/blog/data-science-programming-languages/)
 - [40+ Data Analytics Projects Ideas](https://www.appliedaicourse.com/blog/data-analytics-projects-ideas/)
+- [Best Data Science Courses with Certificates](https://www.appliedaicourse.com/blog/best-data-science-courses/)
 
 
 ### Hobby
