@@ -365,6 +365,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [XGBoost](https://github.com/dmlc/xgboost)
 * [LightGBM](https://github.com/microsoft/LightGBM)
 * [CatBoost](https://github.com/catboost/catboost)
+* [PerpetualBooster](https://github.com/perpetual-ml/perpetual)
 * [JAX](https://github.com/google/jax)
 
 ### Deep Learning Packages
