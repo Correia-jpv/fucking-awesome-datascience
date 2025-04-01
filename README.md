@@ -778,6 +778,8 @@ This section includes some additional reading material, channels to watch, and t
 - [Santiago Basulto](https://medium.com/@santiagobasulto) - Data Science with Python
 - [Akhil Soni](https://medium.com/@akhil0435) - ML, DL and Data Science
 - [Akhil Soni](https://akhilworld.hashnode.dev/) - ML, DL and Data Science 
+- [Applied AI Blogs](https://www.appliedaicourse.com/blog/) - In-depth articles on AI, machine learning, and data science concepts with practical applications.
+- [Scaler Blogs](https://www.scaler.com/blog/) - Educational content on software development, AI, and career growth in tech.
 
 ### Presentations
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -1130,6 +1132,7 @@ Some data mining competition platforms
 - [Top 13 Data Science Programming Languages](https://www.appliedaicourse.com/blog/data-science-programming-languages/)
 - [40+ Data Analytics Projects Ideas](https://www.appliedaicourse.com/blog/data-analytics-projects-ideas/)
 - [Best Data Science Courses with Certificates](https://www.appliedaicourse.com/blog/best-data-science-courses/)
+- [Generative AI Models](https://www.appliedaicourse.com/blog/generative-ai-models/)
 
 
 ### Hobby
