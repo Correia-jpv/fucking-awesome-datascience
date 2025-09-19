@@ -1,3 +1,17 @@
+<div align="center" markdown="1">
+   <sup>Special thanks to:</sup>
+   <br>
+   <br>
+   <a href="https://go.warp.dev/awesome-datascience">
+      <img alt="Warp sponsorship" width="400" src="https://github.com/warpdotdev/brand-assets/blob/main/Github/Sponsor/Warp-Github-LG-04.png?raw=true">
+   </a>
+
+### [Warp, the intelligent terminal for developers](https://go.warp.dev/awesome-datascience)
+[Available for MacOS, Linux, & Windows](https://go.warp.dev/awesome-datascience)<br>
+
+</div>
+<hr>
+
 <div align="center"><img src="./assets/head.jpg"></div>
 
 # AWESOME DATA SCIENCE
@@ -7,13 +21,6 @@
 **An open-source Data Science repository to learn and apply towards solving real world problems.**
 
 This is a shortcut path to start studying **Data Science**. Just follow the steps to answer the questions, "What is Data Science and what should I study to learn Data Science?"
-
-## Sponsors
-
-| Sponsor | Pitch |
-| --- | --- |
-| --- | Be the first to sponsor! `github@academic.io` |
-
 
 
 <br>
