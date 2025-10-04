@@ -282,7 +282,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
   - [Mixture models](https://en.wikipedia.org/wiki/Mixture_model)
 - [Dimension Reduction](https://en.wikipedia.org/wiki/Dimensionality_reduction)
   - [Principal Component Analysis (PCA)](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
-  - [t-SNE; t-distributed Stochastic Neighbor Embedding](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
+  - [t-SNE; t-distributed Stochastic Neighbor Embedding](https://scikit-learn.org/stable/modules/manifold.html#t-distributed-stochastic-neighbor-embedding-tsne)
   - [Factor Analysis](https://scikit-learn.org/stable/modules/decomposition.html#factor-analysis)
   - [Latent Dirichlet Allocation (LDA)](https://scikit-learn.org/stable/modules/decomposition.html#latent-dirichlet-allocation-lda)
 - [Neural Networks](https://en.wikipedia.org/wiki/Neural_network)
