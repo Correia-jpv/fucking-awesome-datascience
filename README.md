@@ -592,7 +592,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [zasper](https://github.com/zasper-io/zasper) | Supercharged IDE for Data Science |
 | [skrub](https://github.com/skrub-data/skrub/) | A Python library to ease preprocessing and feature engineering for tabular machine learning |
 | [Codeflash](https://www.codeflash.ai/) | Ship Blazing-Fast Python Code — Every Time |
-
+| [Hugging Face](https://huggingface.co/) | Popular open platform for sharing ML models, datasets, and collaborating on NLP and generative AI projects. |
 
 
 
