@@ -736,7 +736,6 @@ This section includes some additional reading material, channels to watch, and t
 - [R Bloggers](https://www.r-bloggers.com/) - R Bloggers
 - [The Practical Quant](https://practicalquant.blogspot.com/) Big data
 - [Yet Another Data Blog](https://yet-another-data-blog.blogspot.com/) Yet Another Data Blog
-- [Spenczar](https://spenczar.com/) a data scientist at _Twitch_. I handle the whole data pipeline, from tracking to model-building to reporting.
 - [KD Nuggets](https://www.kdnuggets.com/) Data Mining, Analytics, Big Data, Data, Science not a blog a portal
 - [Meta Brown](https://www.metabrown.com/blog/) - Personal Blog
 - [Data Scientist](https://datascientists.com/) is building the data scientist culture.
