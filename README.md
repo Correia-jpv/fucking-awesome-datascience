@@ -44,6 +44,8 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
     - [Data  Mining Algorithms](#data-mining-algorithms)
     - [Deep Learning Architectures](#deep-learning-architectures)
   - [General Machine Learning Packages](#general-machine-learning-packages)
+  - [Model Evaluation & Monitoring](#model-evaluation--monitoring)
+    - [Evidently AI](#evidently-ai)
   - [Deep Learning Packages](#deep-learning-packages)
     - [PyTorch Ecosystem](#pytorch-ecosystem)
     - [TensorFlow Ecosystem](#tensorflow-ecosystem)
@@ -249,7 +251,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 ### Comparison
 - [datacompy](https://github.com/capitalone/datacompy) - DataComPy is a package to compare two Pandas DataFrames.
-  
+
 #### Supervised Learning
 
 - [Regression](https://en.wikipedia.org/wiki/Regression)
@@ -373,6 +375,20 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [CatBoost](https://github.com/catboost/catboost)
 * [PerpetualBooster](https://github.com/perpetual-ml/perpetual)
 * [JAX](https://github.com/google/jax)
+
+### Model Evaluation & Monitoring
+
+#### Evidently AI
+[Evidently AI](https://www.evidentlyai.com/) - An open-source framework for evaluating, monitoring, and analyzing machine learning models in production. Evidently provides interactive reports and dashboards for data drift, model performance, and data quality tracking.
+
+**Key Features:**
+- **Comprehensive reports:** Analyze model quality, data drift, and target drift with visual, shareable reports.
+- **Production monitoring:** Continuously track metrics and detect performance degradation.
+- **Integration-friendly:** Works seamlessly with Jupyter notebooks, pipelines, and production monitoring tools.
+- **Focus on explainability:** Helps data science teams understand changes in data and model behavior over time.
+
+**Why it matters:**  
+Monitoring model performance is crucial for reliable AI systems. Evidently AI simplifies this process, making continuous evaluation and transparency easy to integrate into ML workflows.
 
 ### Deep Learning Packages
 
