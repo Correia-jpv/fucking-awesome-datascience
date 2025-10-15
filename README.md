@@ -376,7 +376,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [PerpetualBooster](https://github.com/perpetual-ml/perpetual)
 * [JAX](https://github.com/google/jax)
 
-### Model Evaluation & Monitoring
 
 #### Evidently AI
 [Evidently AI](https://www.evidentlyai.com/) - An open-source framework for evaluating, monitoring, and analyzing machine learning models in production. Evidently provides interactive reports and dashboards for data drift, model performance, and data quality tracking.
