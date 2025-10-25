@@ -794,6 +794,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Akhil Soni](https://akhilworld.hashnode.dev/) - ML, DL and Data Science 
 - [Applied AI Blogs](https://www.appliedaicourse.com/blog/) - In-depth articles on AI, machine learning, and data science concepts with practical applications.
 - [Scaler Blogs](https://www.scaler.com/blog/) - Educational content on software development, AI, and career growth in tech.
+- [Mlu github](https://mlu-explain.github.io/) - Mlu is developed amazon to help people in ml space you can learn everything from basics here with live diagrams
 
 ### Presentations
 **[`^        back to top        ^`](#awesome-data-science)**
