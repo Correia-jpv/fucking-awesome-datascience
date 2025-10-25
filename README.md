@@ -717,7 +717,6 @@ This section includes some additional reading material, channels to watch, and t
 - [Wes McKinney](https://wesmckinney.com/archives.html) - Wes McKinney Archives.
 - [Matthew Russell](https://miningthesocialweb.com/) - Mining The Social Web.
 - [Greg Reda](http://www.gregreda.com/) - Greg Reda Personal Blog
-- [Kevin Davenport](https://kldavenport.com/) - Kevin Davenport Personal Blog
 - [Julia Evans](https://jvns.ca/) - Recurse Center alumna
 - [Hakan Kardas](https://www.cse.unr.edu/~hkardes/) - Personal Web Page
 - [Sean J. Taylor](https://seanjtaylor.com/) - Personal Web Page
