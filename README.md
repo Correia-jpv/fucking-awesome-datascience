@@ -847,6 +847,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Interview with Google's AI and Deep Learning 'Godfather' Geoffrey Hinton](https://www.youtube.com/watch?v=1Wp3IIpssEc)
 - [Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk)
 - [What is machine learning, and how does it work?](https://www.youtube.com/watch?v=elojMnjn4kk)
+- [CampusX](https://www.youtube.com/@campusx-official)
 - [Data School](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg) - Data Science Education
 - [Neural Nets for Newbies by Melanie Warrick (May 2015)](https://www.youtube.com/watch?v=Cu6A96TUy_o)
 - [Neural Networks video series by Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
