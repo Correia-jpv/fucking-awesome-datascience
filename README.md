@@ -25,6 +25,15 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
 
 <br>
 
+
+## Sponsors
+
+| Sponsor | Pitch |
+| --- | --- |
+| --- | Be the first to sponsor! `github@academic.io` |
+
+
+
 ## Table of Contents
 
 - [What is Data Science?](#what-is-data-science)
