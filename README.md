@@ -44,6 +44,8 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
     - [Data  Mining Algorithms](#data-mining-algorithms)
     - [Deep Learning Architectures](#deep-learning-architectures)
   - [General Machine Learning Packages](#general-machine-learning-packages)
+  - [Model Evaluation & Monitoring](#model-evaluation--monitoring)
+    - [Evidently AI](#evidently-ai)
   - [Deep Learning Packages](#deep-learning-packages)
     - [PyTorch Ecosystem](#pytorch-ecosystem)
     - [TensorFlow Ecosystem](#tensorflow-ecosystem)
@@ -251,7 +253,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 ### Comparison
 - [datacompy](https://github.com/capitalone/datacompy) - DataComPy is a package to compare two Pandas DataFrames.
-  
+
 #### Supervised Learning
 
 - [Regression](https://en.wikipedia.org/wiki/Regression)
@@ -375,6 +377,8 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [CatBoost](https://github.com/catboost/catboost)
 * [PerpetualBooster](https://github.com/perpetual-ml/perpetual)
 * [JAX](https://github.com/google/jax)
+
+
 
 ### Deep Learning Packages
 
