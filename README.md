@@ -1,6 +1,6 @@
 <div align="center" markdown="1">
    <sup>Special thanks to Sponsors:</sup>
-   <br>
+   <br> 
    <br>
    <a href="https://go.warp.dev/awesome-datascience">
       <img alt="Warp sponsorship" width="400" src="https://github.com/warpdotdev/brand-assets/blob/main/Github/Sponsor/Warp-Github-LG-04.png?raw=true">
@@ -10,11 +10,11 @@
    [Available for MacOS, Linux, & Windows](https://go.warp.dev/awesome-datascience)<br>
    <br>
    <br>
-   <a href="https://requestly.com/?ref=awesome-datascience">
+   <a href="https://requestly.com/awesomedatascience">
       <img alt="Requestly sponsorship" width="400" src="https://github.com/user-attachments/assets/24670320-997d-4d62-9bca-955c59fe883d">
    </a>
-   ### [Requestly - Free & Open-Source alternative to Postman](https://requestly.com/?ref=awesome-datascience)
-   [All-in-one platform to Test, Mock and Intercept APIs](https://requestly.com/?ref=awesome-datascience)
+   ### [Requestly - Free & Open-Source alternative to Postman](https://requestly.com/awesomedatascience)
+   [All-in-one platform to Test, Mock and Intercept APIs](https://requestly.com/awesomedatascience)
    <br>
 </div>
 
