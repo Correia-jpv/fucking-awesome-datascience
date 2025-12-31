@@ -399,6 +399,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [hyperlearn](https://github.com/danielhanchen/hyperlearn)
 * [dlib](https://github.com/davisking/dlib)
 * [imodels](https://github.com/csinva/imodels)
+* [jSciPy](https://github.com/hissain/jscipy) - A Java port of SciPy's signal processing module, offering filters, transformations, and other scientific computing utilities.
 * [RuleFit](https://github.com/christophM/rulefit)
 * [pyGAM](https://github.com/dswah/pyGAM)
 * [Deepchecks](https://github.com/deepchecks/deepchecks)
