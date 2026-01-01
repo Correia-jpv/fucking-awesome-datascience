@@ -1150,7 +1150,7 @@ Some data mining competition platforms
 - [250k+ Job Postings](https://aws.amazon.com/marketplace/pp/prodview-p2554p3tczbes) - An expanding dataset of historical job postings from Luxembourg from 2020 to today. Free with 250k+ job postings hosted on AWS Data Exchange.
 - [FinancialData.Net](https://financialdata.net/documentation) - Financial datasets (stock market data, financial statements, sustainability data, and more).
 - [Google Dataset Search](https://datasetsearch.research.google.com/) – Find datasets across the web.
-- [notesjor corpus-collection](https://notes.jan-oliver-ruediger.de/korpora/) - Free corpora (over 6 billion token) mostly german (both historically and in contemporary german).
+- [notesjor corpus-collection](https://notes.jan-oliver-ruediger.de/korpora/) - Free corpora (over 6 billion tokens) mostly German (both historically and in contemporary German).
 - [CLARIN-Repository](https://lindat.mff.cuni.cz/repository/home) - CLARIN is a european repository for scientific datasets.
 
 
