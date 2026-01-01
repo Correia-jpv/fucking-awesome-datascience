@@ -720,7 +720,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Grokking Bayes](https://www.manning.com/books/grokking-bayes)
 - [Machine Learning Q and AI](https://sebastianraschka.com/books/ml-q-and-ai)
 - [JavaScript for Data Science](https://third-bit.com/js4ds/) - Free html page
-- [Angewandte Data Science](https://angewandtedatascience.de/) - german book about applied data science
+- [Angewandte Data Science](https://angewandtedatascience.de/) - German book about applied data science
 
 #### Book Deals (Affiliated)
 
