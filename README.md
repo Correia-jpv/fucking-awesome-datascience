@@ -1151,7 +1151,7 @@ Some data mining competition platforms
 - [FinancialData.Net](https://financialdata.net/documentation) - Financial datasets (stock market data, financial statements, sustainability data, and more).
 - [Google Dataset Search](https://datasetsearch.research.google.com/) – Find datasets across the web.
 - [notesjor corpus-collection](https://notes.jan-oliver-ruediger.de/korpora/) - Free corpora (over 6 billion tokens) mostly German (both historically and in contemporary German).
-- [CLARIN-Repository](https://lindat.mff.cuni.cz/repository/home) - CLARIN is a european repository for scientific datasets.
+- [CLARIN-Repository](https://lindat.mff.cuni.cz/repository/home) - CLARIN is a European repository for scientific datasets.
 
 
 ### Comics
