@@ -229,8 +229,8 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Introduction to Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-data-science)
 -[Getting Started with Python for Data Science](https://www.codecademy.com/learn/getting-started-with-python-for-data-science) 
 - [Google Advanced Data Analytics Certificate](https://grow.google/data-analytics/) – Professional courses in data analysis, statistics, and machine learning fundamentals.
-- [Maschinelle Sprachgebrauchsanalyse - Grundlagen der Korpuslinguistik](https://www.twillo.de/edu-sharing/components/collections?id=e6ce03ae-4660-49b0-be10-dcc92e71e796) - course material on text-mining / corpus-linguistics *in german* funded by the federal state of North Rhine-Westphalia
-- [Programmieren für Germanist*innen](https://www.twillo.de/edu-sharing/components/collections?id=16bac749-f10e-483f-9020-5d6365b4e092) - course material: programming in python *in german* for digital humanities - funded by the federal state of North Rhine-Westphalia
+- [Maschinelle Sprachgebrauchsanalyse - Grundlagen der Korpuslinguistik](https://www.twillo.de/edu-sharing/components/collections?id=e6ce03ae-4660-49b0-be10-dcc92e71e796) - course material on text-mining / corpus-linguistics *in German* funded by the federal state of North Rhine-Westphalia
+- [Programmieren für Germanist*innen](https://www.twillo.de/edu-sharing/components/collections?id=16bac749-f10e-483f-9020-5d6365b4e092) - course material: programming in python *in German* for digital humanities - funded by the federal state of North Rhine-Westphalia
 
 ### Intensive Programs
 **[`^        back to top        ^`](#awesome-data-science)**
