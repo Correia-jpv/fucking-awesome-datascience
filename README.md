@@ -1096,6 +1096,7 @@ Some data mining competition platforms
 
 - [Academic Torrents](https://academictorrents.com/)
 - [ADS-B Exchange](https://www.adsbexchange.com/data-samples/) - Specific datasets for aircraft and Automatic Dependent Surveillance-Broadcast (ADS-B) sources.
+- [AI Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker) - Structured dataset tracking 92 AI-attributed workforce reduction events affecting 453,748 workers across 12 countries and 11 sectors. JSON and CSV formats. CC-BY-4.0 licensed.
 - [hadoopilluminated.com](https://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
 - [data.gov](https://catalog.data.gov/dataset) - The home of the U.S. Government's open data
 - [United States Census Bureau](https://www.census.gov/)
