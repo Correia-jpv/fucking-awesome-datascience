@@ -123,6 +123,9 @@ Please, contribute about "agents"
 ### Frameworks
 - [ADK-Rust](https://github.com/zavora-ai/adk-rust) - Production-ready AI agent development kit for Rust with model-agnostic design (Gemini, OpenAI, Anthropic), multiple agent types (LLM, Graph, Workflow), MCP support, and built-in telemetry.
 
+### Tools
+- [Frostbyte MCP](https://github.com/OzorOwn/frostbyte-mcp) - MCP server providing 13 data tools for AI agents: real-time crypto prices, IP geolocation, DNS lookups, web scraping to markdown, code execution, and screenshots. One API key for 40+ services.
+
 ### Workflow  
 **[`^        back to top        ^`](#awesome-data-science)**
 - [sim](https://sim.ai) Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
