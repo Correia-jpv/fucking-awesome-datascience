@@ -125,6 +125,8 @@ Please, contribute about "agents"
 
 ### Tools
 - [Frostbyte MCP](https://github.com/OzorOwn/frostbyte-mcp) - MCP server providing 13 data tools for AI agents: real-time crypto prices, IP geolocation, DNS lookups, web scraping to markdown, code execution, and screenshots. One API key for 40+ services.
+### Research & Knowledge Retrieval
+- [BGPT MCP](https://bgpt.pro/mcp) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores. [GitHub](https://github.com/connerlambden/bgpt-mcp)
 
 ### Workflow  
 **[`^        back to top        ^`](#awesome-data-science)**
