@@ -47,6 +47,8 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
   - [Intensive Programs](#intensive-programs)
   - [Colleges](#colleges)
 - [The Data Science Toolbox](#the-data-science-toolbox)
+
+ - [TabGAN](https://github.com/Diyago/Tabular-data-generation) - Synthetic tabular data generation using GANs, Diffusion Models, and LLMs with adversarial filtering and privacy metrics.
   - [Algorithms](#algorithms)
     - [Supervised Learning](#supervised-learning)
     - [Unsupervised Learning](#unsupervised-learning)
