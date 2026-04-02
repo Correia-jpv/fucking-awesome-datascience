@@ -20,6 +20,8 @@
 
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
+Contributions are welcome - see [`CONTRIBUTING.md`](CONTRIBUTING.md).
+
 **An open-source Data Science repository to learn and apply concepts toward solving real- world problems.**
 
 This is a shortcut path to start studying **Data Science**. Just follow the steps to answer the questions, "What is Data Science, and what should I study to learn Data Science?"
