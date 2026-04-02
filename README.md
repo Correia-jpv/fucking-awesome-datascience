@@ -48,7 +48,6 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
   - [Colleges](#colleges)
 - [The Data Science Toolbox](#the-data-science-toolbox)
 
- - [TabGAN](https://github.com/Diyago/Tabular-data-generation) - Synthetic tabular data generation using GANs, Diffusion Models, and LLMs with adversarial filtering and privacy metrics.
   - [Algorithms](#algorithms)
     - [Supervised Learning](#supervised-learning)
     - [Unsupervised Learning](#unsupervised-learning)
@@ -87,7 +86,6 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
   - [Comics](#comics)
 - [Other Awesome Lists](#other-awesome-lists)
   - [Hobby](#hobby)
-- [AI Weekly](https://aiweekly.co) - Curated AI intelligence briefing from industry leaders covering models, funding, policy, and applications. 3x/week since 2017, 40K+ subscribers.
 
 ## What is Data Science?
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -531,6 +529,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | --- | --- |
 | [The Data Science Lifecycle Process](https://github.com/dslp/dslp) | The Data Science Lifecycle Process is a process for taking data science teams from Idea to Value repeatedly and sustainably. The process is documented in this repo  |
 | [Data Science Lifecycle Template Repo](https://github.com/dslp/dslp-repo-template) | Template repository for data science lifecycle project  |
+| [TabGAN](https://github.com/Diyago/Tabular-data-generation) | Synthetic tabular data generation using GANs, Diffusion Models, and LLMs with adversarial filtering and privacy metrics. |
 | [RexMex](https://github.com/AstraZeneca/rexmex) | A general purpose recommender metrics library for fair evaluation.  |
 | [ChemicalX](https://github.com/AstraZeneca/chemicalx) | A PyTorch based deep learning library for drug pair scoring.  |
 | [CorpusExplorer](http://corpusexplorer.de/) | Software for corpus linguists and text/data mining enthusiasts. Build your own corpora in over 60 languages. Use over 50 tools/visualizations.  |
@@ -776,6 +775,7 @@ This section includes some additional reading material, channels to watch, and t
 ### Newsletters
 **[`^        back to top        ^`](#awesome-data-science)**
 
+- [AI Weekly](https://aiweekly.co) - Curated AI intelligence briefing from industry leaders covering models, funding, policy, and applications. 3x/week since 2017, 40K+ subscribers.
 - [DataTalks.Club](https://datatalks.club). A weekly newsletter about data-related things. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa).
 - [The Analytics Engineering Roundup](https://roundup.getdbt.com/about). A newsletter about data science. [Archive](https://roundup.getdbt.com/archive).
 - [Techpresso](https://dupple.com/techpresso). A free daily newsletter covering the most impactful developments in AI, ML, and tech. [Archive](https://dupple.com/techpresso).
