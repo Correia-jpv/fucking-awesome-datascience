@@ -117,7 +117,7 @@ While not strictly necessary, having a programming language is a crucial skill t
 
 Unlike R, Python was not built from the ground up with data science in mind, but there are plenty of third party libraries to make up for this. A much more exhaustive list of packages can be found later in this document, but these four packages are a good set of choices to start your data science journey with: [Scikit-Learn](https://scikit-learn.org/stable/index.html) is a general-purpose data science package which implements the most popular algorithms - it also includes rich documentation, tutorials, and examples of the models it implements. Even if you prefer to write your own implementations, Scikit-Learn is a valuable reference to the nuts-and-bolts behind many of the common algorithms you'll find. With [Pandas](https://pandas.pydata.org/), one can collect and analyze their data into a convenient table format. [Numpy](https://numpy.org/) provides very fast tooling for mathematical operations, with a focus on vectors and matrices. [Seaborn](https://seaborn.pydata.org/), itself based on the [Matplotlib](https://matplotlib.org/) package, is a quick way to generate beautiful visualizations of your data, with many good defaults available out of the box, as well as a gallery showing how to produce many common visualizations of your data.
 
- When embarking on your journey to becoming a data scientist, the choice of language isn't particularly important, and both Python and R have their pros and cons. Pick a language you like, and check out one of the [Free courses](#free-courses) we've listed below!
+When embarking on your journey to becoming a data scientist, the choice of language isn't particularly important, and both Python and R have their pros and cons. Pick a language you like, and check out one of the [Free courses](#free-courses) we've listed below!
 
 ### Beginner Roadmap
 If you're just starting out, here's a simple recommended path:
@@ -130,7 +130,7 @@ If you're just starting out, here's a simple recommended path:
 
 ## Agents
 
-Please, contribute about "agents"
+This section contains agent frameworks and tools that are useful for data science workflows.
 
 ### Frameworks
 - [ADK-Rust](https://github.com/zavora-ai/adk-rust) - Production-ready AI agent development kit for Rust with model-agnostic design (Gemini, OpenAI, Anthropic), multiple agent types (LLM, Graph, Workflow), MCP support, and built-in telemetry.
@@ -138,12 +138,13 @@ Please, contribute about "agents"
 ### Tools
 - [Frostbyte MCP](https://github.com/OzorOwn/frostbyte-mcp) - MCP server providing 13 data tools for AI agents: real-time crypto prices, IP geolocation, DNS lookups, web scraping to markdown, code execution, and screenshots. One API key for 40+ services.
 - [Arch Tools](https://archtools.dev) - 61 production-ready AI API tools for data science workflows: code analysis, web scraping, NLP, image generation, crypto data, and search. REST API and MCP protocol support. [GitHub](https://github.com/Deesmo/Arch-AI-Tools)
+
 ### Research & Knowledge Retrieval
 - [BGPT MCP](https://bgpt.pro/mcp) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores. [GitHub](https://github.com/connerlambden/bgpt-mcp)
 
-### Workflow  
+### Workflow
 **[`^        back to top        ^`](#awesome-data-science)**
-- [sim](https://sim.ai) Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+- [sim](https://sim.ai) - Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
 
 
 ## Training Resources
