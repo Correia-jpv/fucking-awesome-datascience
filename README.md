@@ -42,6 +42,7 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
 
 - [What is Data Science?](#what-is-data-science)
 - [Where do I Start?](#where-do-i-start)
+- [Agents](#agents)
 - [Training Resources](#training-resources)
   - [Tutorials](#tutorials)
   - [Free Courses](#free-courses)
@@ -55,7 +56,7 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
     - [Unsupervised Learning](#unsupervised-learning)
     - [Semi-Supervised Learning](#semi-supervised-learning)
     - [Reinforcement Learning](#reinforcement-learning)
-    - [Data  Mining Algorithms](#data-mining-algorithms)
+    - [Data Mining Algorithms](#data-mining-algorithms)
     - [Deep Learning Architectures](#deep-learning-architectures)
   - [General Machine Learning Packages](#general-machine-learning-packages)
   - [Model Evaluation & Monitoring](#model-evaluation--monitoring)
@@ -157,7 +158,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with IPython.
-- [#tidytuesday](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
+- [#tidytuesday](https://github.com/rfordatascience/tidytuesday) - A weekly data project aimed at the R ecosystem.
 - [Data science your way](https://github.com/jadianes/data-science-your-way)
 - [DataCamp Cheatsheets](https://www.datacamp.com/cheat-sheet) Cheatsheets for data science.
 - [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
@@ -499,7 +500,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [ggplot2](https://ggplot2.tidyverse.org/)
 - [Glue](http://docs.glueviz.org/en/latest/index.html)
 - [Google Chart Gallery](https://developers.google.com/chart/interactive/docs/gallery)
-- [highcarts](https://www.highcharts.com/)
+- [Highcharts](https://www.highcharts.com/)
 - [import.io](https://www.import.io/)
 - [Matplotlib](https://matplotlib.org/)
 - [nvd3](https://nvd3.org/)
