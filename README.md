@@ -1189,6 +1189,7 @@ Some data mining competition platforms
 - [FAOSTAT](https://www.fao.org/faostat/en/) - UN FAO statistics on food production, trade, land use, and emissions for 245+ countries. Free API and bulk download.
 - [FirstData](https://github.com/MLT-OSS/FirstData) - The world's most comprehensive authoritative data source knowledge base. 210+ curated sources from governments, international organizations, and research institutions. MCP integration for AI agents. MIT licensed.
 - [latamdata-py](https://github.com/juanmoisesd/latamdata-py) - Python package for one-line access to 38 open research datasets from Latin America (health, neuroscience, mental health, economics). pip install latamdata-py.
+- [ZipCheckup](https://github.com/artakulov/us-water-quality-data) - Free ZIP-level environmental safety data for 42,000+ US ZIP codes: water quality, air quality, PFAS contamination, radon, lead, flood risk, and 11 more verticals. Public REST API, npm/PyPI packages, CC BY 4.0.
 
 
 ### Comics
