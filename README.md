@@ -532,6 +532,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 | Link | Description |
 | --- | --- |
+| [Disco](https://github.com/leap-laboratories/discovery-engine) | Superhuman exploratory data analysis. Finds the feature interactions and subgroup effects in tabular data that LLMs and manual exploration miss — with p-values, effect sizes, and literature citations. Free for public data. |
 | [The Data Science Lifecycle Process](https://github.com/dslp/dslp) | The Data Science Lifecycle Process is a process for taking data science teams from Idea to Value repeatedly and sustainably. The process is documented in this repo  |
 | [Data Science Lifecycle Template Repo](https://github.com/dslp/dslp-repo-template) | Template repository for data science lifecycle project  |
 | [TabGAN](https://github.com/Diyago/Tabular-data-generation) | Synthetic tabular data generation using GANs, Diffusion Models, and LLMs with adversarial filtering and privacy metrics. |
