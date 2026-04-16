@@ -778,6 +778,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Medium Data Science Topic](https://medium.com/tag/data-science) - Data Science related publications on medium
 - [Towards Data Science Genetic Algorithm Topic](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3#:~:text=A%20genetic%20algorithm%20is%20a,offspring%20of%20the%20next%20generation.) -Genetic Algorithm related Publications towards Data Science
 - [Maxim AI](https://getmaxim.ai). Tool for AI Agent Simulation, Evaluation & Observability. 
+- [8bitconcepts](https://8bitconcepts.com/) - AI industry research and analysis with papers on AI pricing, enterprise adoption, and evaluation frameworks.
 
 ### Newsletters
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -1248,6 +1249,7 @@ Some data mining competition platforms
 - [Generative AI Models](https://www.appliedaicourse.com/blog/generative-ai-models/)
 - [Awesome Data Analysis](https://github.com/PavelGrigoryevDS/awesome-data-analysis) -  A curated list of data analysis tools, libraries and resources.
 - [Awesome Evidence Synthesis](https://github.com/evidencesynthesis-tools/awesome-evidence-synthesis) - A curated list of open-source tools for systematic reviews, meta-analysis, and evidence synthesis.
+- [AI Dev Jobs](https://aidevboard.com/) - Job board focused on AI/ML engineering roles with 5,400+ listings and a free REST API.
 
 
 ### Hobby
