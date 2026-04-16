@@ -1,19 +1,27 @@
 name: Check Markdown links
 on:
-  schedule:
-    - cron: "* */24 * * *"
   push:
     branches: [ live ]
-    
+  schedule:
+    - cron: '0 8 * * 1'
+  workflow_dispatch:    
 jobs:
-  markdown-link-check:
+  links:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run markdown link checker action
+        id: link_check
+        uses: academic/link-checker@v1
         with:
-          fetch-depth: 1
-      - uses: gaurav-nelson/github-action-markdown-link-check@v1
+          report-file: link-check-results.md
+          fail-on-issue: "true"
+
+      - name: Upload report artifact
+        if: always()
+        uses: actions/upload-artifact@v4
         with:
-          use-quiet-mode: "yes"
-          use-verbose-mode: "yes"
-          config-file: './mlc_config.json'
+          name: markdown-link-check-report
+          path: ${{ steps.link_check.outputs.report-file }}
