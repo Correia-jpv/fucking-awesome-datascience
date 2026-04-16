@@ -751,6 +751,9 @@ This section includes some additional reading material, channels to watch, and t
 - [JavaScript for Data Science](https://third-bit.com/js4ds/) - Free html page
 - [Angewandte Data Science](https://angewandtedatascience.de/) - German book about applied data science
 - [The Math Behind Artificial Intelligence](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book): A free FreeCodeCamp book teaching the math behind AI in plain English from an engineering point of view.
+- [Executive Data Science](https://leanpub.com/eds): A high-level guide to managing data science teams and projects.
+- [Introduction to Modern Statistics](https://leanpub.com/imstat): A modern, open-access textbook on statistics with a heavy focus on data science applications.
+- [The Art of Data Science](https://bookdown.org/rdpeng/artofdatascience/): Focuses on the "art" of data analysis, how to ask the right questions and refine them.
 
 #### Book Deals (Affiliated)
 
