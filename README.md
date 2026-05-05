@@ -671,6 +671,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 
 
+- [Crypto Pump Scanner](https://github.com/stefanoviana/deepalpha) - AI-powered cryptocurrency trading bot with LSTM neural network (84.6% accuracy). Includes real-time pump detection, walk-forward validated models, and multi-exchange support.
 ## Literature and Media
 **[`^        back to top        ^`](#awesome-data-science)**
 
