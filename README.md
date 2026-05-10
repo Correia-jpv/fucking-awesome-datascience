@@ -191,6 +191,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 ### Free Courses
 **[`^        back to top        ^`](#awesome-data-science)**
 
+- [Data Science](https://github.com/ossu/data-science) - Open Source Society University
 - [Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r)
 - [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
 - [Genetic Algorithms OCW Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/)
