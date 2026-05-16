@@ -36,34 +36,6 @@ Guidelines:
 - Avoid URL shorteners.
 - If a site blocks automated link checking but is a valid resource, it may need to be ignored by the link checker configuration.
 
-## Running link checks locally
-
-This repository contains CI configurations for link checking.
-
-### Option A: awesome_bot (Ruby)
-
-If you have Ruby installed:
-
-1. Install the gem:
-
-   `gem install awesome_bot`
-
-2. Run:
-
-   `awesome_bot README.md`
-
-### Option B: markdown-link-check (Node)
-
-If you have Node installed:
-
-1. Install:
-
-   `npm i -g markdown-link-check`
-
-2. Run:
-
-   `markdown-link-check README.md -c mlc_config.json`
-
 ## Pull request checklist
 
 - Your change is in the right section.
