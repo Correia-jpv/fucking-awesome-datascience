@@ -10,7 +10,6 @@ Contributions are welcome - see [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 This is a shortcut path to start studying **Data Science**. Just follow the steps to answer the questions, "What is Data Science, and what should I study to learn Data Science?"
 
-
 <br>
 
 ## $ [academic](https://academic.io/cli)
@@ -22,9 +21,7 @@ $ brew install academic
 
 ## Sponsors
 
-| Sponsor | Pitch |
-| --- | --- |
-| --- | Be the first to sponsor! `github@academic.io` |
+Be the first to sponsor! `github@academic.io`
 
 
 
