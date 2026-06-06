@@ -9,6 +9,9 @@ Select one option:
 - [ ] Fully open source: $1 one-time tip.
 - [ ] Service or closed source: $1 monthly tip or $12 yearly tip.
 
+Kind note for service or closed source submissions:
+Thank you for sharing your project. If this is a service or closed source offering, we kindly request a small support tip of $1/month or $12/year. This helps sustain review and maintenance work for the community.
+
 Tip details/link (required):
 
 <!-- Add URL or payment handle here -->
