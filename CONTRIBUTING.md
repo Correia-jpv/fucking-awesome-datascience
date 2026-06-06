@@ -42,6 +42,7 @@ Guidelines:
 - The link works.
 - The description is short and matches the repo style.
 - Link checks pass (or you explained why they fail and proposed an ignore pattern).
+- You completed the PR template, including tip model, license type, and your relationship to the project.
 
 ## Code of Conduct
 
