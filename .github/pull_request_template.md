@@ -12,7 +12,7 @@ Select one option:
 Kind note for service or closed source submissions:
 Thank you for sharing your project. If this is a service or closed source offering, we kindly request a small support tip of $1/month or $12/year. This helps sustain review and maintenance work for the community.
 
-Tip details/link (required):
+Tip details/link: https://github.com/sponsors/hmert
 
 <!-- Add URL or payment handle here -->
 
