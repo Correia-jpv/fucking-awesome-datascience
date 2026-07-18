@@ -559,7 +559,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Pandas GUI](https://github.com/adrotog/PandasGUI) | Pandas GUI |
 | [NuriStat](https://github.com/baramgay/stat) | Free open-source SPSS alternative — menu-driven desktop statistics (t-tests, ANOVA, regression, survival analysis, ROC) with SPSS .sav import/export |
 | [Polars](https://github.com/pola-rs/polars) | Fast DataFrame library for Rust and Python, designed as a faster alternative to Pandas |
-| [CiteMe](https://citeme.app) | AI-powered academic citation generator. Searches 11+ scholarly databases (OpenAlex, PubMed, Semantic Scholar, CrossRef, SciELO) and formats references in 40+ citation styles. Available as web app, browser extension, Google Docs add-on, and public API. |
+| [CiteMe](https://citeme.app) | free academic citation generator with a built-in reference checker that flags fabricated or hallucinated references. Searches 11+ scholarly databases (OpenAlex, PubMed, Semantic Scholar, CrossRef, SciELO), formats 40+ citation styles, and offers a public API. No sign-up; available in English, Spanish, Portuguese, French, and German.|
 | [Scikit-Learn](https://scikit-learn.org/stable/) | Machine Learning in Python |
 | [NumPy](https://numpy.org/) | NumPy is fundamental for scientific computing with Python. It supports large, multi-dimensional arrays and matrices and includes an assortment of high-level mathematical functions to operate on these arrays. |
 | [Vaex](https://vaex.io/) | Vaex is a Python library that allows you to visualize large datasets and calculate statistics at high speeds. |
